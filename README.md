@@ -1,6 +1,5 @@
 # Modern Portfolio Website
 Demo
-Deny
 A clean, responsive portfolio website template built with HTML, CSS, and JavaScript. This template is designed to showcase your projects, skills, and experience in a professional and visually appealing way.
 
 ## Features
