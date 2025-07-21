@@ -37,6 +37,7 @@ body {
     background-attachment: fixed;
     overflow-x: hidden;
     position: relative;
+    padding-top: 80px; /* Prevent content from being hidden under sticky header */
 }
 
 /* Premium Background Effects */
@@ -585,11 +586,7 @@ nav {
     opacity: 1;
 }
 
-.project-image {
-    position: relative;
-    overflow: hidden;
-    height: 200px;
-}
+
 
 .project-image img {
     width: 100%;
